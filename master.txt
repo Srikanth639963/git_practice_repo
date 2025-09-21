@@ -3,3 +3,4 @@ adding line 2 in master branch
 adding line 3 in master branch
 adding line 4 in master1 branch
 adding line 5 in master2 branch
+adding line 7 in master2 branch
